@@ -1,1 +1,1 @@
-# 2018-2nd-Algorithm
+# course 2018-2nd
