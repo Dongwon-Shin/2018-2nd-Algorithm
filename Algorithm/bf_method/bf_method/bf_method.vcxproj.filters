@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="str_cmp.cpp">
+    <ClCompile Include="bf_match.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
